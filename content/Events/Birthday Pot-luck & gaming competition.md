@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-30T11:49:47.698-07:00
-modified: 2026-04-03T22:23:13.631-07:00
+modified: 2026-04-03T22:48:06.589-07:00
 ---
 
 # Attendees
@@ -32,6 +32,11 @@ We may also order food.
 1. Arrive at 4h30-5h00pm.
 2. Equipment setup + Team organization by 6h00pm.
 3. Competition begins at 6h00pm.
+
+---
+
+> [!NOTE] Join the community
+> [Matrix Community](https://matrix.to/#/#TheCommunity:matrix.org)
 
 ---
 
