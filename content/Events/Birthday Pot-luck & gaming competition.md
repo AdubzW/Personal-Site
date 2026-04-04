@@ -1,13 +1,18 @@
 ---
 publish: true
 created: 2026-03-30T11:49:47.698-07:00
-modified: 2026-04-03T22:07:37.297-07:00
+modified: 2026-04-03T22:23:13.631-07:00
 ---
 
 # Attendees
 
 Don't get me anything, but bring something to eat for everyone! Could be homemade, could be store bought, but should be hearty. I'll be making the cake.
 We may also order food.
+
+> [!NOTE] Allergies
+> Please dm Alex about adding additional allergies to the list.
+>
+> Currently: Nuts.
 
 ---
 
