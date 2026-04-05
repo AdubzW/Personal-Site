@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-30T11:49:47.698-07:00
-modified: 2026-04-03T22:48:06.589-07:00
+modified: 2026-04-04T22:12:15.682-07:00
 ---
 
 # Attendees
@@ -64,10 +64,8 @@ The spare room in my basement suite.
 
 https://docs.google.com/forms/d/e/1FAIpQLScZOQwG6QtBqe25akXutFb976pCRKiMznjMeiTsgxJEzs3ZsQ/viewform?usp=header
 
-## Invitees (<12)
+## Invitees
 
-- Kai (LOA)
-- Jen (LOA)
 - Daniel
 - Stash
 - Julian
@@ -78,3 +76,11 @@ https://docs.google.com/forms/d/e/1FAIpQLScZOQwG6QtBqe25akXutFb976pCRKiMznjMeiTs
 - Ryan
 - Caleab
 - Khang
+- Clank
+- Irene
+- \[ ]
+
+## Invitees (declined)
+
+- Kai
+- Jen
