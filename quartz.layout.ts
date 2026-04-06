@@ -47,13 +47,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-Component.Breadcrumbs({
-  spacerSymbol: "❯", // symbol between crumbs
-  rootName: "Events", // name of first/root element
-  resolveFrontmatterTitle: false, // whether to resolve folder names through frontmatter titles
-  showCurrentPage: false, // whether to display the current page in the breadcrumbs
-})
-
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
