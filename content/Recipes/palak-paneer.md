@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-04-05T20:52:35.106-07:00
-modified: 2026-04-05T20:56:21.170-07:00
+created: 2026-04-06T14:04:29.788-07:00
+modified: 2026-04-06T09:07:19.075-07:00
 ---
 
 # Ingredients
@@ -10,8 +10,4 @@ modified: 2026-04-05T20:56:21.170-07:00
 - nuts substitute
 - garlic subtitute
 
-![[Pasted image 20260405205517.png]]
-
-![[Pasted image 20260405205532.png]]
-
-![[Pasted image 20260405205549.png]]
+![Palak Paneer Recipe (Spinach Paneer) - Swasthi's Recipes](Semantic/Recipes/palak-paneer-recipe-spinach-paneer-swasthis-re.pdf)
