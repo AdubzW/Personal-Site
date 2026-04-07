@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-30T11:49:47.698-07:00
-modified: 2026-04-06T16:46:54.394-07:00
+modified: 2026-04-06T17:14:49.359-07:00
 ---
 
 # Attendees
@@ -33,6 +33,3 @@ Greeting dear viewer, and welcome to this gaming competition/birthday potluck (b
 ---
 
 ![[Birthday Pot-luck (Internal)]]
-
-\[^1]:  I will share the exact location in the group chat.
-\> [Postal Code](https://maps.app.goo.gl/kUjdXACkVLXgukvo6)
