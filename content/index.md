@@ -2,7 +2,7 @@
 publish: true
 title: Hi, I'm Alex
 created: 2026-04-03T21:07:04.432-07:00
-modified: 2026-04-11T15:37:14.641-07:00
+modified: 2026-04-11T15:39:17.000-07:00
 ---
 
 ![[Semantic/Images/Alex-Profile-Picture.jpg|profile-picture-2.jpg|300]]
@@ -11,10 +11,16 @@ I'm an aspiring electrical engineer with a background in design. Follow me on my
 
 ---
 
-**[Resume]()**\
+**[Resume]()**
 **[Instagram](https://www.instagram.com/alexweitzel.tech)**\
 **[Linkedin](https://www.linkedin.com/in/alexanderweitzel/)**\
 **[Medium](https://medium.com/@alexanderweitzel)**
+
+---
+
+# Engineering Work
+
+---
 
 ## VOC & UFP detection system
 
