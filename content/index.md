@@ -2,14 +2,12 @@
 publish: true
 title: Hi, I'm Alex
 created: 2026-04-03T21:07:04.432-07:00
-modified: 2026-04-11T15:31:09.640-07:00
+modified: 2026-04-11T15:37:14.641-07:00
 ---
 
 ![[Semantic/Images/Alex-Profile-Picture.jpg|profile-picture-2.jpg|300]]
 
-# Alexander Weitzel's Site
-
-Service-oriented IT professional with a Google IT Support Certificate and foundational training in networking, cybersecurity, and hardware installation. Design Background & fluent in 3 languages. Serial Homelabber.
+I'm an aspiring electrical engineer with a background in design. Follow me on my journey!
 
 ---
 
