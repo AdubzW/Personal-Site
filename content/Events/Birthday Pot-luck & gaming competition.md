@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-03-30T11:49:47.698-07:00
-modified: 2026-04-06T17:17:03.402-07:00
+modified: 2026-04-10T18:00:50.219-07:00
 ---
 
 # Attendees
 
 Greeting dear viewer, and welcome to this gaming competition/birthday potluck (belated). Here the goal is to assemble a group of individuals to do a proper lan party / competition over the course of a Saturday evening.
 
-## Gameplan
+## Gameplan  (April 12th)
 
 1. Arrive at 4h30-5h00pm.
 2. Equipment setup + Team organization by 6h00pm.
