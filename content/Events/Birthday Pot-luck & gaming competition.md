@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-30T11:49:47.698-07:00
-modified: 2026-04-11T17:18:12.561-07:00
+modified: 2026-04-11T23:23:27.515-07:00
 ---
 
 # Attendees
@@ -32,10 +32,16 @@ Greeting dear viewer, and welcome to this gaming competition/birthday potluck (b
 
 ### Games
 
-Helldivers (Time Trial)
-Unrailed 2
-Rocket League
-Master Chief Collection
-Overcooked 2
+- Helldivers (Time Trial)
+- Unrailed 2
+- Rocket League
+- Master Chief Collection
+- Overcooked 2
+
+## Scoring System
+
+- 1 point for being on the winning team
+- 2 points for being the top player on that team by points.
+- 2 rounds of each game will be played.
 
 ---
