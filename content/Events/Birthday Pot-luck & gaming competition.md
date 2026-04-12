@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-30T11:49:47.698-07:00
-modified: 2026-04-11T23:23:27.515-07:00
+modified: 2026-04-12T00:36:08.478-07:00
 ---
 
 # Attendees
@@ -11,8 +11,8 @@ Greeting dear viewer, and welcome to this gaming competition/birthday potluck (b
 ## Gameplan  (April 12th)
 
 1. Arrive at 4h30-5h00pm.
-2. Equipment setup + Team organization by 6h00pm.
-3. Competition begins at 6h00pm.
+2. Equipment setup + Team organization by 5h30pm.
+3. First game starts at 6h00pm.
 
 ## Location + date
 
@@ -35,7 +35,7 @@ Greeting dear viewer, and welcome to this gaming competition/birthday potluck (b
 - Helldivers (Time Trial)
 - Unrailed 2
 - Rocket League
-- Master Chief Collection
+- Master Chief Collection (Halo 3)
 - Overcooked 2
 
 ## Scoring System
