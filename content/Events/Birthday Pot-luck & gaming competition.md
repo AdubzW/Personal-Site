@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-30T11:49:47.698-07:00
-modified: 2026-04-10T18:00:50.219-07:00
+modified: 2026-04-11T17:18:12.561-07:00
 ---
 
 # Attendees
@@ -29,5 +29,13 @@ Greeting dear viewer, and welcome to this gaming competition/birthday potluck (b
 
 > [!NOTE] Join the community for future events (optional)
 > [Matrix Community](https://matrix.to/#/#TheCommunity:matrix.org)
+
+### Games
+
+Helldivers (Time Trial)
+Unrailed 2
+Rocket League
+Master Chief Collection
+Overcooked 2
 
 ---
