@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-03-30T11:49:47.698-07:00
-modified: 2026-04-12T00:36:08.478-07:00
+created: 2026-04-12T11:25:32.076-07:00
+modified: 2026-04-12T00:46:41.346-07:00
 ---
 
 # Attendees
@@ -32,16 +32,23 @@ Greeting dear viewer, and welcome to this gaming competition/birthday potluck (b
 
 ### Games
 
-- Helldivers (Time Trial)
+- Helldivers
+  - Time trial, which team can complete all objectives and extract the quickest?
 - Unrailed 2
+  - Which team can survive the longest before their train details?
 - Rocket League
+  - Best of 3 games
 - Master Chief Collection (Halo 3)
+  - 1 round FFA Slayer (1st - 3 points, 2nd - 2 points, 3rd - 1 point.
+  - 1 round CTF
+  - 1 round oddball
 - Overcooked 2
+  - 3 rounds total, high score.
 
 ## Scoring System
 
 - 1 point for being on the winning team
 - 2 points for being the top player on that team by points.
-- 2 rounds of each game will be played.
+- 2 points for being the top player on the losing team.
 
 ---
