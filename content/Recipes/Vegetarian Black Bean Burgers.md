@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-05-11T00:17:07.167-07:00
-modified: 2026-05-11T17:12:31.358-07:00
+modified: 2026-05-12T14:55:22.219-07:00
 ---
 
 > [!NOTE] Allium-free
@@ -27,7 +27,7 @@ modified: 2026-05-11T17:12:31.358-07:00
 
 **Tofu mixed in with fries in Air Fryer**
 
-- 1800 grams russet potatoes, peeled
+- 1800 grams russet potatoes (or bagged fries)
 - 800 grams tofu (whatever's left in fridge)
 - 3 cups gluten free flour (Tofu)
 - 3 teaspoons salt
