@@ -1,7 +1,79 @@
 ---
 publish: true
 created: 2026-05-11T00:17:07.167-07:00
-modified: 2026-05-11T00:36:49.397-07:00
+modified: 2026-05-11T17:12:31.358-07:00
+---
+
+> [!NOTE] Allium-free
+> Keep a seperate bowl with highlighted items taken out.
+
+# Ingredients
+
+**Ingredients** **Black Bean Burger:**
+
+- ▢ 146 ounce can black beans, drained and rinsed
+- ▢ 5 green bell pepper
+- ==▢ 5 small onion==
+- ==▢ 20 cloves garlic, peeled==
+- ▢ 3 cups mashed avocado
+- ▢ 7 cup Gluten Free Breadcrumbs
+- ▢ 10 Tablespoon chili powder
+- ▢ 10 teaspoon ground cumin
+- ▢ salt and freshly ground black pepper, to taste
+- ▢ 29 hamburger buns
+- ▢ 10 gluten free hamburger buns
+- ▢ 1 head of lettuce
+- ▢ 8 medium sized tomatoes
+
+**Tofu mixed in with fries in Air Fryer**
+
+- 1800 grams russet potatoes, peeled
+- 800 grams tofu (whatever's left in fridge)
+- 3 cups gluten free flour (Tofu)
+- 3 teaspoons salt
+- 6 teaspoons salt
+- 3 teaspoons paprika
+- 4 tablespoons canola oil, or as needed (or some oil with a high smoke point)
+- 1 cup water, or as needed
+
+**Chipotle Mayo Sauce:**
+
+- ▢ 10 cup mayonnaise (maybe vegan?)
+- ▢ 20 chipotle peppers in adobo sauce
+- ==▢ 10 Tablespoon adobo sauce==
+- ▢ 20 teaspoons lime juice
+- ▢ salt and freshly ground black pepper
+
+---
+
+# Recipes
+
+### Black Bean Burgers
+
+1. **Black Beans:** Place rinsed and drained black beans in a bowl. If needed, blot them with a paper towel to remove extra moisture. Place in a large bowl and mash well with a fork.
+2. **Veggies:** Use a food processor to mine the bell pepper, onion and garlic. Transfer veggies to a fine mesh strainer and use the back of a spoon to press out excess moisture. (If it's too wet, the burger wont hold together as well.)
+3. **Combine:** Add the strained vegetable mixture to the bowl with the black beans. Add the chili powder, cumin and salt and pepper and stir to combine. Add beaten egg and mix. Stir in bread crumbs.
+4. **Form Patties**: scoop mixture into 4 even sized patties, forming them and pressing flat with your hands.
+
+### Fries + Tofu
+
+1. Cut the tofu up into uniform slices that resemble the fries.
+2. Toss them in the flour.
+3. Toss them in the spices and water and oil.
+4. Put em into the air fryer on 350-400 with the the fries.
+5. Voila.
+
+#### Directions
+
+2. While the oil is heating, sift flour, garlic salt, onion salt, paprika, and salt into a large bowl. Gradually stir in enough water to make a slightly thick batter.
+   ![](https://www.allrecipes.com/thmb/7VHR4AEmqp7eiqSJBr-FPova6os=/750x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/50223-homemade-crispy-seasoned-french-fries-ddmfs-step2-0700-c64e696028eb430f8f5af9eacd35246d.jpg)
+   ![](https://www.allrecipes.com/thmb/7xKcZIQpvdotXfmjnjyn3BIkKnk=/750x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/50223-homemade-crispy-seasoned-french-fries-ddmfs-step3-0702-ff3574f0bafb4f38958d58d0eb6cf3b7.jpg)
+3. Put the tofu in here.
+   ![](https://www.allrecipes.com/thmb/ZHWdrHU1MfP02cdvGQKf0VxwheU=/750x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/50223-homemade-crispy-seasoned-french-fries-ddmfs-step4-0703-4750dda331fc4f4c9db11af2a8f64860.jpg)
+4. Put em in the air fryer at 350-400$\degree$ Fahrenheit.
+
+### Chipotle Mayo
+
 ---
 
 ### Restrictions
@@ -29,72 +101,3 @@ modified: 2026-05-11T00:36:49.397-07:00
 
 - **2 cups all-purpose flour** (fries/tofu coating) → 2 cups rice flour or 1:1 GF flour blend (direct swap)
 - **20 regular hamburger buns** → 20 gluten-free hamburger buns (already have 10 listed, just double it)
-
----
-
-# Ingredients
-
-#### Black Bean Burger:
-
-- ▢ 112.5 ounce can black beans, , drained and rinsed
-- ▢ 3.75 green bell pepper
-- ▢ 3.75 small onion
-- ▢ 15 cloves [garlic](https://walmrt.us/4cICFNb), , peeled
-- ▢ 2 cups mashed avocado
-- ▢ 5 cup Gluten Free Breadcrumbs
-- ▢ 7.5 Tablespoon [chili powder](https://amzlink.to/az0aWStcWaLmt)
-- ▢ 7.5 teaspoon [ground cumin](https://amzlink.to/az0Zz8G8kYOiS)
-- ▢ [salt and freshly ground black pepper](https://amzlink.to/az0wK5GAJMDZ9), , to taste
-- ▢ 20 [hamburger buns](https://tastesbetterfromscratch.com/hamburger-buns/)
-- ▢ 10 gluten free hamburger buns
-- ▢ desired burger toppings: lettuce, tomato, etc.
-
-#### Tofu mixed in with fries in Air Fryer
-
-- 2.5 pounds russet potatoes, peeled
-- 800 grams tofu
-- 2 cups gluten free flower
-- 2 teaspoons garlic salt
-- 2 teaspoons onion salt
-- 2 teaspoons paprika
-- 2 teaspoons salt
-- 1 cup water, or as needed
-
-#### Chipotle Mayo Sauce:
-
-- ▢ 7.5 cup [mayonnaise](https://amzlink.to/az04x8Tgk2enb)
-- ▢ 15 chipotle peppers in adobo sauce
-- ▢ 7.5 Tablespoon [adobo sauce](https://walmrt.us/42AJixH)  (Allergy friendly, Vegetarian), (from can of chipotle peppers in adobo sauce)
-- ▢ 15 teaspoons lime juice
-- ▢ [salt and freshly ground black pepper](https://amzlink.to/az0wK5GAJMDZ9)
-
-# Recipes
-
-### Black Bean Burgers
-
-### Fries + Tofu
-
-#### Directions
-
-1. Slice potatoes into French fries; place into a large bowl of cold water to prevent them from turning brown.
-   ![](https://www.allrecipes.com/thmb/mcZf_zPsec9Qkei7jC7FdRp2w78=/750x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/50223-homemade-crispy-seasoned-french-fries-ddmfs-step1-0698-d981d01988f240d181e40d58a7bd4d18.jpg)
-
-2. Heat oil in a heavy saucepan or large skillet to 350 degrees F (175 degrees C).
-
-3. While the oil is heating, sift flour, garlic salt, onion salt, paprika, and salt into a large bowl. Gradually stir in enough water to make a slightly thick batter that can be drizzled from a spoon.
-   ![](https://www.allrecipes.com/thmb/7VHR4AEmqp7eiqSJBr-FPova6os=/750x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/50223-homemade-crispy-seasoned-french-fries-ddmfs-step2-0700-c64e696028eb430f8f5af9eacd35246d.jpg)
-   ![](https://www.allrecipes.com/thmb/7xKcZIQpvdotXfmjnjyn3BIkKnk=/750x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/50223-homemade-crispy-seasoned-french-fries-ddmfs-step3-0702-ff3574f0bafb4f38958d58d0eb6cf3b7.jpg)
-
-4. Drain fries and pat dry; dip into batter one at a time.
-   ![](https://www.allrecipes.com/thmb/ZHWdrHU1MfP02cdvGQKf0VxwheU=/750x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/50223-homemade-crispy-seasoned-french-fries-ddmfs-step4-0703-4750dda331fc4f4c9db11af2a8f64860.jpg)
-
-5. Lower fries carefully into the hot oil in batches to prevent them from clumping together; fry until golden brown and crispy on all sides, 7 to 10 minutes.
-   ![](https://www.allrecipes.com/thmb/yavLJv6ckkkWBnfanhHw63yqDm4=/750x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/50223-homemade-crispy-seasoned-french-fries-ddmfs-step5-0704-dd5418b73df443a4a768b6731b39342e.jpg)
-
-6. Drain fries on a paper towel-lined plate.
-   ![](https://www.allrecipes.com/thmb/fMNwBuXG0ijXc0AlkVpzHK7aoR8=/750x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/50223-homemade-crispy-seasoned-french-fries-ddmfs-step6-0706-4eaa284d1d5040bcb14181cecc49ef13.jpg)
-
-7. Serve hot and enjoy!
-   ![](https://www.allrecipes.com/thmb/2jvl2-7xESFsMI9iyAsEf3IrXmA=/750x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/50223-homemade-crispy-seasoned-french-fries-VAT-Beauty-4x3-789ecb2eaed34d6e879b9a93dd56a50a.jpg)
-
-### Chipotle Mayo
