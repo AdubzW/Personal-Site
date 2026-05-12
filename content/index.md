@@ -2,17 +2,17 @@
 publish: true
 title: Hi, I'm Alex
 created: 2026-04-03T21:07:04.432-07:00
-modified: 2026-05-12T14:35:55.180-07:00
+modified: 2026-05-12T14:39:41.813-07:00
 ---
 
 ![[Semantic/Images/profile-picture-2.jpg|300]]
 
 I'm an aspiring electrical engineer with a background in design. Follow me on my journey!
 
-**[[General Resume]]**
-**[Instagram](https://www.instagram.com/alexweitzel.tech)**\
-**[Linkedin](https://www.linkedin.com/in/alexanderweitzel/)**\
-**[Medium](https://medium.com/@alexanderweitzel)**
+- **[[General Resume]]**
+- **[Instagram](https://www.instagram.com/alexweitzel.tech)**
+- **[Linkedin](https://www.linkedin.com/in/alexanderweitzel/)**
+- **[Medium](https://medium.com/@alexanderweitzel)**
 
 ---
 
