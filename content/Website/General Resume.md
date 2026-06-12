@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-11T15:23:36.376-07:00
-modified: 2026-05-12T14:45:18.718-07:00
+modified: 2026-05-12T15:06:33.014-07:00
 ---
 
 # Alexander Weitzel Resume
@@ -93,14 +93,14 @@ _May 2017_
 
 ## Proficiencies
 
-|                           \*\*Creative \*\* |          **Information Technology** |                                      **Intra-Personal** |
-|:----------------------------------------|:------------------------------------|:--------------------------------------------------------|
-|    Affinity Designer, Photo, Publisher. |                 Computer Networking | Fluent in English, French, German, functional Japanese. |
-| Adobe Illustrator, Photoshop, Indesign. |                    Customer Service |                                               Minutious |
-|                                   Canva |          IT Infrastructure Services |                                           Self-directed |
-|                                 Blender |                          IT Support |                                 Eager to learn and grow |
-|                         Davinci Resolve |                   Operating Systems |                               Problem Solution Oriented |
-|                                    CAD. |                            Security |                                                         |
-|                                         |               System Administration |                                                         |
-|                                         |                     Troubleshooting |                                                         |
-|                                         | HTML, CSS, Javascript, Python, SQL. |                                                         |
+|                           \*\*Creative \*\* |          **Information Technology** | **Intra-Personal**                 |
+| :-------------------------------------- | :---------------------------------- | :--------------------------------- |
+|    Affinity Designer, Photo, Publisher. |                 Computer Networking | Fluent in English, French, German. |
+| Adobe Illustrator, Photoshop, Indesign. |                    Customer Service | Minutious                          |
+|                                   Canva |          IT Infrastructure Services | Self-directed                      |
+|                                 Blender |                          IT Support | Eager to learn and grow            |
+|                         Davinci Resolve |                   Operating Systems | Problem Solution Oriented          |
+|                                    CAD. |                            Security |                                    |
+|                                         |               System Administration |                                    |
+|                                         |                     Troubleshooting |                                    |
+|                                         | HTML, CSS, Javascript, Python, SQL. |                                    |

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-05-11T00:17:07.167-07:00
-modified: 2026-05-12T14:55:22.219-07:00
+created: 2026-05-14T10:11:48.339-07:00
+modified: 2026-05-12T17:37:24.643-07:00
 ---
 
 > [!NOTE] Allium-free
@@ -52,7 +52,7 @@ modified: 2026-05-12T14:55:22.219-07:00
 
 1. **Black Beans:** Place rinsed and drained black beans in a bowl. If needed, blot them with a paper towel to remove extra moisture. Place in a large bowl and mash well with a fork.
 2. **Veggies:** Use a food processor to mine the bell pepper, onion and garlic. Transfer veggies to a fine mesh strainer and use the back of a spoon to press out excess moisture. (If it's too wet, the burger wont hold together as well.)
-3. **Combine:** Add the strained vegetable mixture to the bowl with the black beans. Add the chili powder, cumin and salt and pepper and stir to combine. Add beaten egg and mix. Stir in bread crumbs.
+3. **Combine:** Add the strained vegetable mixture to the bowl with the black beans. Add the chili powder, cumin and salt and pepper and stir to combine. Add avocado mix. Stir in bread crumbs.
 4. **Form Patties**: scoop mixture into 4 even sized patties, forming them and pressing flat with your hands.
 
 ### Fries + Tofu
@@ -65,12 +65,12 @@ modified: 2026-05-12T14:55:22.219-07:00
 
 #### Directions
 
-2. While the oil is heating, sift flour, garlic salt, onion salt, paprika, and salt into a large bowl. Gradually stir in enough water to make a slightly thick batter.
+1. While the oil is heating, sift flour, garlic salt, onion salt, paprika, and salt into a large bowl. Gradually stir in enough water to make a slightly thick batter.
    ![](https://www.allrecipes.com/thmb/7VHR4AEmqp7eiqSJBr-FPova6os=/750x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/50223-homemade-crispy-seasoned-french-fries-ddmfs-step2-0700-c64e696028eb430f8f5af9eacd35246d.jpg)
    ![](https://www.allrecipes.com/thmb/7xKcZIQpvdotXfmjnjyn3BIkKnk=/750x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/50223-homemade-crispy-seasoned-french-fries-ddmfs-step3-0702-ff3574f0bafb4f38958d58d0eb6cf3b7.jpg)
-3. Put the tofu in here.
+2. Put the tofu in here.
    ![](https://www.allrecipes.com/thmb/ZHWdrHU1MfP02cdvGQKf0VxwheU=/750x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/50223-homemade-crispy-seasoned-french-fries-ddmfs-step4-0703-4750dda331fc4f4c9db11af2a8f64860.jpg)
-4. Put em in the air fryer at 350-400$\degree$ Fahrenheit.
+3. Put em in the air fryer at 350-400$\degree$ Fahrenheit.
 
 ### Chipotle Mayo
 
