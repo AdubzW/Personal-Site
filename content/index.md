@@ -2,12 +2,12 @@
 publish: true
 title: Hi, I'm Alex
 created: 2026-04-03T21:07:04.432-07:00
-modified: 2026-06-12T10:38:09.462-07:00
+modified: 2026-06-12T10:42:12.848-07:00
 ---
 
 ![[Semantic/Images/profile-picture-2.jpg|300]]
 
-I'm an aspiring electrical engineer with a background in design. Follow me on my journey!
+I'm an aspiring electrical engineer with a background in design. I bring the
 
 - **[Instagram](https://www.instagram.com/alexweitzel.tech)**
 - **[Linkedin](https://www.linkedin.com/in/alexanderweitzel/)**
@@ -41,7 +41,7 @@ Coming soon….\
 
 ---
 
-## [[novatio-school]]
+## [[Novatio School]]
 
 #Y2025 #Lead #Designer
 
