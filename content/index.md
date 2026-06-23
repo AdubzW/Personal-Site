@@ -2,12 +2,12 @@
 publish: true
 title: Hi, I'm Alex
 created: 2026-04-03T21:07:04.432-07:00
-modified: 2026-06-12T10:42:12.848-07:00
+modified: 2026-06-23T16:02:34.165-07:00
 ---
 
 ![[Semantic/Images/profile-picture-2.jpg|300]]
 
-I'm an aspiring electrical engineer with a background in design. I bring the
+### I'm an aspiring electrical engineer with a background in design.
 
 - **[Instagram](https://www.instagram.com/alexweitzel.tech)**
 - **[Linkedin](https://www.linkedin.com/in/alexanderweitzel/)**
@@ -53,7 +53,7 @@ Novatio is an AI powered online learning that is personalized, efficient, and re
 
 #Y2024 #Lead #Designer
 
-## The Rum Row Exhibit
+## [[The Rum Row Exhibit]]
 
 #Y2023 #Designer
 
