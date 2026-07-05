@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Hi, I'm Alex
-created: 2026-04-03T21:07:04.432-07:00
-modified: 2026-06-23T16:02:34.165-07:00
+created: 2026-06-29T22:23:30.986-07:00
+modified: 2026-06-28T17:43:06.126-07:00
 ---
 
 ![[Semantic/Images/profile-picture-2.jpg|300]]
@@ -60,3 +60,5 @@ Novatio is an AI powered online learning that is personalized, efficient, and re
 The Rum Row Exhibit is a fictional pop-up presentation based in Vancouver that covers the Prohibition Era in Canada. It uses a combined illustrative and image-based approach that is uncommon in historical spaces.
 
 ![[Semantic/Images/Rum_Row_Exhibit_Banner.png]]
+
+https://drive.google.com/drive/folders/1EncseqQ3WMg1L8SC2vVoKaomgd-C-x\_C
