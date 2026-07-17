@@ -2,7 +2,7 @@
 publish: true
 title: AtelierShowcase
 created: 2026-07-05T14:02:21.077-07:00
-modified: 2026-07-12T12:47:04.201-07:00
+modified: 2026-07-16T17:30:19.676-07:00
 ---
 
 # Booth Setup
@@ -17,26 +17,38 @@ modified: 2026-07-12T12:47:04.201-07:00
 
 # Booth Items
 
-- Smoke Generator
-- Heat Gun/Fan
-- BreadBoard Demo
-- 3D Printed Shell prototypes
-- Display
+- \~~Smoke Generator.~~
+- Heat Gun/Fan.
+- BreadBoard Demo.
+- 3D Printed Shell prototypes.
+- Display.
   1. Images from Various stages
   2. Annotation
   3. Pointer
 - Soldering iron tip
 - Soldering iron stand
-- \[ ]
+- Pointer (KDEconnect)
+- Open Source repo
+  - Parts List
+  - Board Layout
+  - 3D Models for printing
+- Cardboard display surface
+- Fan Holder
+- Miniature exhaust fan to dump heat
 
 > [!NOTE] Progress Tracker
 >
 > - PCB Layout done+printed
->   - Test layout on paper
+>   - Printed out on paper/3D printed
+>   - All parts added
 > - Functional Prototype
-> - Test Prototype
-> - Order Duplicate parts
-> - Design Screen Layout
+>   - Perfboarded
+>   - Soldered
+> - Build out Breadboard Ver
+> - Design screen layout
 > - Print Stationary
->   - Sign
 >   - Business Cards
+>   - Stage 1, 2, 3 signage.
+> - Demo Setup
+> - DHT22 independant holder for Skadis
+> - Timing for tripping sensor (requires testing)
