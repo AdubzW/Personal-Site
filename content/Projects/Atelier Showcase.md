@@ -2,7 +2,7 @@
 publish: true
 title: AtelierShowcase
 created: 2026-07-05T14:02:21.077-07:00
-modified: 2026-07-16T17:30:19.676-07:00
+modified: 2026-07-18T01:48:34.499-07:00
 ---
 
 # Booth Setup
@@ -50,5 +50,6 @@ modified: 2026-07-16T17:30:19.676-07:00
 >   - Business Cards
 >   - Stage 1, 2, 3 signage.
 > - Demo Setup
-> - DHT22 independant holder for Skadis
+> - DHT22 independant holder for Skadis.
+> - DHT22 soldered wire for extended length
 > - Timing for tripping sensor (requires testing)
