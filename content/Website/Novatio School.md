@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Novatio School
-created: 2026-04-11T15:23:36.399-07:00
-modified: 2026-06-27T00:28:51.784-07:00
+created: 2026-04-11T22:23:36.399Z
+modified: 2026-06-27T07:28:51.784Z
 ---
 
 #Designer #Lead

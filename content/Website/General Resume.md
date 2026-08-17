@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-04-11T15:23:36.376-07:00
-modified: 2026-05-12T15:06:33.014-07:00
+created: 2026-04-11T22:23:36.376Z
+modified: 2026-05-12T22:06:33.014Z
 ---
 
 # Alexander Weitzel Resume

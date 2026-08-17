@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Hi, I'm Alex
-created: 2026-06-29T22:23:30.986-07:00
-modified: 2026-06-28T17:43:06.126-07:00
+created: 2026-06-30T05:23:30.986Z
+modified: 2026-06-29T00:43:06.126Z
 ---
 
 ![[Semantic/Images/profile-picture-2.jpg|300]]
