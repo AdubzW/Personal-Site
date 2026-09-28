@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-14T04:39:57.678Z
-modified: 2026-08-14T03:56:46.097Z
+modified: 2026-09-27T22:20:19.147Z
 ---
 
 # Atlantic Rim
@@ -34,7 +34,7 @@ modified: 2026-08-14T03:56:46.097Z
 
 ### Thornstein
 
-Gruff, stern, but fair, Thornstein is a veteran of many battles in which he has learned that careful calculation are the best ways forward. He can sometimes be seen as cold, unfeeling, but he knows intimately what it's like being soldier.
+Gruff, stern, but fair, Thornstein is a veteran of many battles in which he has learned that careful calculation are the best ways forward. He can sometimes be seen as cold, unfeeling, but he knows intimately what it's like to be a soldier.
 
 ### Franz
 
@@ -68,17 +68,17 @@ Cocooned in their great hides of steel, and propelled by great engines of fire, 
 
 ## [A watchful Guardian](a-watchful-guardian.md)
 
-When an interdimensional rift tore open the Pacific ocean in 2013, humanity was caught off guard. As monsters poured through the breach, the people of earth searched for a savior. They would eventually find one, and he would be built by human hands. It's creators called it, Jeager, and the world heralded his arrival as a technological wonder, a triumph of humanity's collective will to forge on. The Jeagers were a testament to the ingenuity of a species; but even man's greatest makers stand atop the shoulders of giants.
+When an interdimensional rift tore open the Pacific ocean in 2013, humanity was caught off guard. Great monsters as tall as skyscrapers poured through the breach, and the people of earth searched for a savior. They had no way of knowing that he would be built by human hands. It's creators called it: Jeager, and man welcomed its arrival as a triumph of the species ingenuity. What they did not know, or better, realize, is that none of man's creations have ever stood alone. All of them without fail, are built atop the shoulders of giants...
 
 ---
 
 ### Recap of World War 1
 
-## [The batman theme ](the-batman-theme.md)
+[The batman theme ](the-batman-theme.md)
 
-…In the case of the Jeager, the shoulders its creators stood upon lived and died almost a century prior, during one of humanity's most tumultuous periods. A time where the pace of technological progress was matched only by the blood and destruction that lined its foundations. A time of great alliances, globe spanning empires, and armies the likes of which the world had never seen.
+…in the case of the Jeager, work had already begun a century prior. The first rift that tore the ocean asunder came in 1917, a time where the skyscraper of technological progress was built atop a foundation of blood, sweat, and iron. A time of great alliances, globe spanning empires, and armies the likes of which the world had never seen.
 
-The year is 1917, and the great war enters its 3rd bloody year. The trenches strain under the weight of their burgeoning payload. Men toil and suffer within the soil's embrace; meters from the resting places of their fallen comrades, and minutes from their own.
+The year is 1917, and the great war enters its 3rd brutal year. Trenches line the maps of Europe, expanding only one way: down. Toiling and suffering between the soil's embrace; men march mere meters from the resting places of men they had spoken to a day prior.
 
 ---
 
@@ -86,9 +86,9 @@ The year is 1917, and the great war enters its 3rd bloody year. The trenches str
 
 ---
 
-Thousands of Kilometers away from the blood and gore, in the town of Halifax, Canada, great factories churn out their works with predictable efficience; Bullets and shell casing rolling off assembly lines and into weapons bound for Europe.
+But this is not where our story begins. Instead, we journey thousands of miles across the globe, to the town of Halifax, Canada. Here, nestled between peaceful buildings and bustling harbors, great factories churn out their works of war with predictable efficiency. Bullets and casings slide off assembly lines, into shipping containers, then back into weapons from whence they will fire.
 
-Through the thick smog of iron and industry, one factory towers above all others. It bears no company markings, has no visible windows, and is surrounded on all sides by rows on rows of gnashing wire. It's entry points are guarded by soldiers marked by the sigil of star and spear, bearing the latest arms, and guarding the greatest innovations that the empire had ever produced. For the townspeople milling about outside its gates, it is the object of intrigue. Erected within mere days, some say that it houses experimental german weapons, stolen, and repurposed for use by her majesty's armed forces.
+Through the choking dust and smog, one factory towers above all others, cutting a striking figure . It bears no company markings, has no visible windows, and is surrounded on all sides by rows on rows of gnashing wire. It's entry points are guarded by soldiers marked by the sigil of star and spear, bearing the latest arms, and guarding the greatest innovations that the empire had ever produced. For the townspeople milling about outside its gates, it is the object of intrigue. Erected within mere days, some say that it houses experimental german weapons, stolen, and repurposed for use by her majesty's armed forces.
 
 For those that posses the credentials to pass through its gates unopposed, it is known only by one name: The Sigil.
 
